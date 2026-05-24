@@ -1,0 +1,87 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Sohto Chiku
+    - name: Date of Birth
+      value: 6th September, 1999
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Informatics
+      institution: Graduate School of EIS, Yokohama National University, Japan
+      year: 2024
+    - title: Bachelor of Engineering
+      institution: Multidisciplinary Engineering Course, National Institute of Technology Numazu Colledge, Japan
+      year: 2022
+
+- title: Academic Services
+  type: map
+  contents:
+    - name: Journal Reviewer
+      value: IEEE Transactions on Information Forensics and Security
+    - name: Conference Reviewer
+      value: CRYPTO 2025, ASIACRYPT 2025
+
+- title: Talks
+  type: time_table
+  contents:
+   - title: Hierarchical Identity-Based Matchmaking Encryption
+     institution: PRIVCRYPT 2025
+     year: 2025
+   - title: How to Accomplish Key and Communication Compression Over Authentication Channels
+     institution: NSS 2024
+     year: 2024
+   - title: How to Apply Fujisaki-Okamoto Transformation to Registration-Based Encryption
+     institution: CANS 2024
+     year: 2024
+   - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center
+     institution: ProvSec 2023
+     year: 2023
+   - title: Chosen Ciphertext Security for Blind Identity-Based Encryption with Certified Identities
+     institution: ISPEC 2023
+     year: 2023
+
+- title: Posters
+  type: time_table
+  contents:
+    - title: "Identity-Based Matchmaking Encryption Revisited: Improved Constructions with Strong Security"
+      institution: IWSEC 2024
+      year: 2024
+
+- title: Invited Talks
+  type: time_table
+  contents:
+   - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center (from ProvSec 2023)
+     institution: Invited Session in ISEC (May)
+     year: 2024
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+   - title: Mobisec 2025 Best Paper Award
+     institution: KIISC
+     year: 2025
+   - title: CSS Paper Awards
+     institution: Computer Security Symposium 2024
+     year: 2024
+   - title: Tujii Shigeo Security Paper Awards
+     institution: Japan Society of Security Management
+     year: 2024
+   - title: Certificate of Appreciation for Contribution to ISEC Research Group Activities
+     institution: ISEC Research Group
+     year: 2024
+   - title: Graduate School of EIS Student Awards
+     institution: Graduate School of EIS, Yokohama National University
+     year: 2024
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Cryptography
+      items:
+        - Functional Encryption/ Attribute-Based Encryption/ Identity-Based Encryption
+        - Registered Cryptographic System
+        - Privacy Preserving Signature
+        - Quantum Cryptography
